@@ -1,0 +1,16 @@
+{
+    "name": "schmoove/shopify-php-app",
+    "type": "project",
+    "require": {
+        "shopify/shopify-api": "^5.1"
+    },
+    "authors": [
+        {
+            "name": "schmoove",
+            "email": "ryan@schmoove.co.nz"
+        }
+    ],
+    "require-dev": {
+        "symfony/var-dumper": "^6.3"
+    }
+}

@@ -1,0 +1,4 @@
+{
+  	"title": "Welcome to App Bridge",
+	"message": "This is a small demonstration of leveraging App Bridge to fetch JSON data using an authenticated request, and displaying the response in a modal."
+}
